@@ -1,5 +1,5 @@
 # PnP-Samples
-Sample scripts for the PnP PowerShell cmdlets
+Sample scripts for the PnP PowerShell cmdlets. These scripts were developed by myself and used in real-life scenarios. Feel free to submit Issues or Pull Requests to improve them
 
 
 ## Lists
@@ -13,11 +13,14 @@ Script|Description
 ## Permissions
 Script|Description
 :-----|:----------
+**[GetPermissionLevels](https://github.com/modery/PnP-Samples/blob/master/Permissions/GetPermissionLevels.ps1)** | Retrieves the permission levels from all site collections (excluding OneDrive) and stores them in a CSV file
 
 ## Search
 Script|Description
 :-----|:----------
+**[SetSiteCollectionSearchSettings](https://github.com/modery/PnP-Samples/blob/master/Search/SetSiteCollectionSearchSettings.ps1)** | This script sets the search center URL as well as the seach results page URL for a given site collection  
 
 ## Sites
 Script|Description
 :-----|:----------
+**[GetSiteCollectionStorageDetails](https://github.com/modery/PnP-Samples/blob/master/Sites/GetSiteCollectionStorageDetails.ps1)** | Retrieves size information for all site collections in a tenant and exports it to a CSV file
