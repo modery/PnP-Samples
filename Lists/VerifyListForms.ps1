@@ -1,5 +1,5 @@
 # This script checks all lists in all subsites and verifies if the lists have the three forms (View, Edit, New) set.
-# If at least one of them is not available, the script will log the list
+# If at least one of them is not available, the script will log the list to a report file
 # Missing forms may occur due to migration errors, as an example
 
 # List of sites that should be checked (also checks their subsites)
