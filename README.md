@@ -9,6 +9,10 @@ Script|Description
 **[GetVersioningDetails](https://github.com/modery/PnP-Samples/blob/master/Lists/GetVersioningDetails.ps1)** | This script retrieves all versioning details from all lists in a provided site, including 'Require Content Approval','Versioning Enabled','Major Version limit','Draft Version limit', 'Drafts visible to', and 'Checkout required' 
 **[VerifyListForms](https://github.com/modery/PnP-Samples/blob/master/Lists/VerifyListForms.ps1)** | This script checks all lists in all subsites and verifies if the lists have the three forms (View, Edit, New) set. If at least one of them is not available, the script will log the list to a report file
 
+## Items
+Script|Description
+:-----|:----------
+**[UpdateContentType](https://github.com/modery/PnP-Samples/blob/master/Items/UpdateContentType.ps1)** | This function updates all items in a given list/library from one content type to another
 
 ## Permissions
 Script|Description
