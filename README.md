@@ -28,3 +28,4 @@ Script|Description
 Script|Description
 :-----|:----------
 **[GetSiteCollectionStorageDetails](https://github.com/modery/PnP-Samples/blob/master/Sites/GetSiteCollectionStorageDetails.ps1)** | Retrieves size information for all site collections in a tenant and exports it to a CSV file
+**[RecursivelyDeleteSubsites](https://github.com/modery/PnP-Samples/blob/master/Sites/RecursivelyDeleteSubsites.ps1)** | This script recursively deletes all subsites for a given site and the site itself
