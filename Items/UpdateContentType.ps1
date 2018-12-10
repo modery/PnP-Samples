@@ -4,7 +4,7 @@
 
 function UpdateDocuments($webUrl, $libName, $oldCTName, $newCTName) {
     $web = get-pnpweb $webUrl
-    $lib = $web.Lists[$libName]
+    $lib = Get-PnPList $libName
 	  if($lib) {
 		  write-host "Updating $($libName) in $($webUrl)"
 		  $ctOld = $lib.ContentTypes[$oldCTName]
