@@ -22,7 +22,7 @@ Script|Description
 ## Search
 Script|Description
 :-----|:----------
-**[setSearchIndexing](https://github.com/modery/PnP-Samples/blob/master/Search/setSearchIndexing.ps1)** | This script sets the "Indexing Site Content" setting under "Search and Offline Availability"
+**[SetSearchIndexing](https://github.com/modery/PnP-Samples/blob/master/Search/SetSearchIndexing.ps1)** | This script sets the "Indexing Site Content" setting under "Search and Offline Availability"
 **[SetSiteCollectionSearchSettings](https://github.com/modery/PnP-Samples/blob/master/Search/SetSiteCollectionSearchSettings.ps1)** | This script sets the search center URL as well as the seach results page URL for a given site collection  
 
 
