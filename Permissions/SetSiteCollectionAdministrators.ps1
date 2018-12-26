@@ -1,4 +1,4 @@
-# Sets a list of site collection administrator on specified sites (selected via filter) in the current tenant
+# Sets a list of site collection administrators on specified sites (selected via filter) in the current tenant
 
 #comma separated list of users and groups to be added
 $adminAccounts = "support@mytenant.onmicrosoft.com","superadmin@mytenant.onmicrosoft.com
