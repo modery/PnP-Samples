@@ -18,6 +18,8 @@ Script|Description
 Script|Description
 :-----|:----------
 **[GetPermissionLevels](https://github.com/modery/PnP-Samples/blob/master/Permissions/GetPermissionLevels.ps1)** | Retrieves the permission levels from all site collections (excluding OneDrive) and stores them in a CSV file
+**[SetSiteCollectionAdministrators](https://github.com/modery/PnP-Samples/blob/master/Permissions/SetSiteCollectionAdministrators.ps1)** | Sets a list of site collection administrators on specified sites (selected via filter) in the current tenant
+
 
 ## Search
 Script|Description
