@@ -1,5 +1,6 @@
 # PnP-Samples
-Sample scripts for the [PnP PowerShell cmdlets](https://github.com/SharePoint/PnP-PowerShell). These scripts were developed by myself and used in real-life scenarios, but are often kept simple (e.g., they usually don't use parameters; variables are set directly in the script). Feel free to submit Issues or Pull Requests to improve them
+Sample scripts for the [PnP PowerShell cmdlets](https://github.com/SharePoint/PnP-PowerShell). These scripts were developed by myself and used in real-life scenarios, but are often kept simple (e.g., they usually don't use parameters; variables are set directly in the script) and can be expanded/update if wanted.
+Feel free to submit Issues or Pull Requests to improve them
 
 
 ## Lists
