@@ -15,6 +15,7 @@ Script|Description
 Script|Description
 :-----|:----------
 **[UpdateContentType](https://github.com/modery/PnP-Samples/blob/master/Items/UpdateContentType.ps1)** | This function updates all items in a given list/library from one content type to another
+**[GetItemVersionHistory](https://github.com/modery/PnP-Samples/blob/master/Items/GetItemVersionHistory.ps1)** | This script retrieves the version history of a specific item in a specified list. Field changes can be tracked by manually updating the script to include those fields
 
 ## Permissions
 Script|Description
